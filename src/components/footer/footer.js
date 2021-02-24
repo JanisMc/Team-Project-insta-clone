@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useRef} from 'react'
 import Profile from './Profile'
 import './Footer.css'
 
@@ -22,7 +22,7 @@ const Footer = (props) => {
         return <Profile img = {profile} name = {profile} key = {index}/>
     })
     return (
-        <div className = "profile">
+        <div className = "footerContainer">
             {eachProfile}
         </div>
     )
