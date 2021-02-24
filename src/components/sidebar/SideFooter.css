@@ -1,0 +1,32 @@
+#side-footer{
+    height: 80px;
+    background-color: ghostwhite;
+    font-size: 12px;
+    font-family: helvetica;
+    color: lightgray;
+    
+}
+
+#side-footer-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-left: -70px;
+    margin-bottom: -15px;
+}
+
+#side-footer-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -78px;
+}
+
+#side-footer-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -115px;
+    background-color: ghostwhite;
+}
