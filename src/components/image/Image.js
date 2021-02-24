@@ -1,7 +1,7 @@
 import './Image.css'
 import Aiony from '../../images/aiony.jpg'
-import Alex from '../images/alex.jpg'
-import Dave from '../images/dave.jpg'
+import Alex from '../../images/alex.jpg'
+import Dave from '../../images/dave.jpg'
 import Edwine from '../../images/edwine.jpg'
 import George from '../../images/george.jpg'
 import Imansyah from '../../images/imansyah.jpg'
@@ -9,26 +9,26 @@ import Joseph from '../../images/joseph.jpg'
 import Kimson from '../../images/kimson.jpg'
 import Michaela from '../../images/michaela.jpg'
 import Princess from '../../images/princess.jpg'
-import Racheal from '../../images/racheal.jpg'
+import Rachel from '../../images/rachel.jpg'
 import Steve from '../../images/steve.jpg'
-import Img1 from '../../../images/Img1.png'
-import Img2 from '../../../images/Img2.png'
-import Img3 from '../../../images/Img3.jpg'
-import Img4 from '../../../images/Img4.png'
-import Img5 from '../../../images/Img5.png'
-import Img6 from '../../../images/Img6.png'
-import Img7 from '../../../images/Img7.jpg'
-import Img8 from '../../../images/Img8.png'
-import Ball from '../../../images/Ball.jpg'
-import Blue from '../../../images/Blue.jpg'
-import Face from '../../../images/Face.jpg'
-import Kiss from '../../../images/Kiss.jpg'
-import Laptop from '../../../images/Laptop.jpg'
-import Robot1 from '../../../images/Robot1.jpg'
-import Robot2 from '../../../images/Robot2.jpg'
-import Robot3 from '../../../images/Robot3.jpg'
-import Sad from '../../../images/Sad.jpg'
-import VR from '../../../images/VR.jpg'
+import Img1 from '../../images/Img1.png'
+import Img2 from '../../images/Img2.png'
+import Img3 from '../../images/Img3.jpg'
+import Img4 from '../../images/Img4.png'
+import Img5 from '../../images/Img5.png'
+import Img6 from '../../images/Img6.png'
+import Img7 from '../../images/Img7.jpg'
+import Img8 from '../../images/Img8.png'
+import Ball from '../../images/Ball.jpg'
+import Blue from '../../images/Blue.jpg'
+import Face from '../../images/Face.jpg'
+import Kiss from '../../images/Kiss.jpg'
+import Laptop from '../../images/Laptop.jpg'
+import Robot1 from '../../images/Robot1.jpg'
+import Robot2 from '../../images/Robot2.jpg'
+import Robot3 from '../../images/Robot3.jpg'
+import Sad from '../../images/Sad.jpg'
+import VR from '../../images/VR.jpg'
 
 const images = {
     Aiony, 
@@ -41,7 +41,7 @@ const images = {
     Kimson, 
     Michaela, 
     Princess, 
-    Racheal, 
+    Rachel, 
     Steve,
     Img1, 
     Img2, 
