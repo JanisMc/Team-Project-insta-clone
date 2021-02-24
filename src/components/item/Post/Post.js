@@ -26,7 +26,7 @@ const Photo = {
 const Post = (props) => {
     return (
         <div>
-            <img src = {Photo[props.img2]}  alt = "Image" /> 
+            <img src = {Photo[props.img]}  alt = "Image" /> 
         </div>
     )
 }
