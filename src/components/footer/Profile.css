@@ -1,0 +1,9 @@
+.profilePics {
+    border: solid 3px white;
+    box-shadow: 0 0 3px 2px hotpink;
+}
+
+.profileDiv{
+    display: flex;
+    flex-direction: column;
+}

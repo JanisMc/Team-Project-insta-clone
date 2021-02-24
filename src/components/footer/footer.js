@@ -1,7 +1,8 @@
 import React from 'react'
-import Image from '../image/Image'
+import Profile from './Profile'
+import './Footer.css'
 
-const Profile = [
+const profiles = [
     "Aiony", 
     "Alex", 
     "Dave", 
@@ -12,13 +13,17 @@ const Profile = [
     "Kimson", 
     "Michaela", 
     "Princess", 
-    "Racheal", 
+    "Rachel", 
+    "Steve"
 ]
 
-const Post = (props) => {
+const Footer = (props) => {
+    let eachProfile = profiles.map((profile,index) => {
+        return <Profile img = {profile} name = {profile} key = {index}/>
+    })
     return (
-        <div>
-            <Profile img = "Aiony" class = "profilePics"/>
+        <div className = "profile">
+            {eachProfile}
         </div>
     )
 }
