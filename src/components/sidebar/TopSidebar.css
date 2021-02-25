@@ -10,10 +10,11 @@
     margin-bottom: -10px;
 }
 
-#main-sidebar-image{
+#sidebar-image{
     height: 70px;
     width: 70px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 #account-user-name{
@@ -24,6 +25,7 @@
 #account-name-sidebar{
     margin-bottom: -10px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 #username-sidebar{
@@ -33,4 +35,5 @@
 #switch{
     color: blue;
     font-weight: 600;
+    cursor: pointer;
 }

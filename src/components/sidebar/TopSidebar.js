@@ -6,7 +6,7 @@ const TopSidebar = (props) => {
     return(
         <div id = "top-sidebar">
             <div id = "main-sidebar-image">
-                 <img src = {image1} id= "main-sidebar-image"></img>
+                 <img src = {image1} id= "sidebar-image"></img>
             </div>
             <div id = "account-user-name">
                 <p id = "account-name-sidebar">{props.accountName}</p>
