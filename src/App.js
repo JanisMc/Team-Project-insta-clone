@@ -6,6 +6,7 @@ import Sidebar from './components/sidebar/Sidebar'
 
 const App = () => {
     return (
+        <>
         <div className="App">
       
             <Footer/>
@@ -22,6 +23,7 @@ const App = () => {
             <Sidebar/>
       
         </div>
+    </>
     );
 }
 
