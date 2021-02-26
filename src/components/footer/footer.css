@@ -1,5 +1,6 @@
 .footerContainer {
     display: flex;
+    margin-top: 4.813rem;
     width: 70%;
     border: solid 0.15rem lightgray;
     justify-content: center;
