@@ -5,7 +5,7 @@ import './Post.css'
 const Post = (props) => {
     return (
         <div className = "Post">
-            <Image img = "VR" class = "feedImage"/>
+            <Image img = {props.img} class = "feedImage"/>
         </div>
     )
 }
