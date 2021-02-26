@@ -1,10 +1,10 @@
 import React from 'react'
-import Image from './image/Image'
+import Image from '../../image/Image'
     
 const Logo = (props) => {
     return (
         <div className = "Logo">
-            <Image img = "Img" class = "logoImage"/>  
+            <Image img = "Img1" class = "UserLogo"/>  
         </div>
     )
 }

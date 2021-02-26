@@ -1,11 +1,11 @@
 import React from 'react'
-import Image from '../image/Image'
+import Image from '../../image/Image'
+import './Post.css'
 
 const Post = (props) => {
     return (
-        <div>
-            {/* <img src = {Photo[props.img2]}  alt = "Image" />  */}
-            <Image img = "Img2" class = "feedImage"/>
+        <div className = "Post">
+            <Image img = "VR" class = "feedImage"/>
         </div>
     )
 }

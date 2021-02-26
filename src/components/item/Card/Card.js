@@ -3,16 +3,17 @@ import User from '../User/User'
 import Post from '../Post/Post'
 import Icon from '../Icon/Icon'
 import CommentBar from '../CommentBar/CommentBar'
+import './Card.css'
 
-const Cards = (props) => {
+const Card = (props) => {
     return (
         <div className = "Card">
-            <User img = {props.img} name = {props.name} />
-            <Post img = {props.img2} />
-            <Icon img = {props.img3} img = {props.img4} img = {props.img5} img = {props.img6}/>
+            <User img = {props.imgProfile} name = {props.name} />
+            <Post img = {props.imgPost} />
+            <Icon/>
             <CommentBar/>
         </div>
     )
 }
 
-export default Cards
+export default Card

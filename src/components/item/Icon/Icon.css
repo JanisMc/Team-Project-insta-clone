@@ -1,0 +1,34 @@
+.IconImg{
+    width: 8%;
+    padding: 0 5px;
+    
+}
+
+.IconImg2{
+    width: 35%;
+    height: 100%;
+}
+
+.Icon{
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.IconContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 5px 0;
+}
+
+.IconRight{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%!important;
+
+}
+
+

@@ -5,8 +5,14 @@ import Card from './components/item/Card/Card'
 const App = () => {
     return (
         <div className="App">
-            <Card img = "Img1" name = "Silvester" img2 = "Kiss" img3 = "Like" img4 = "Comment" img5 = "Share" img6 = "Save"/>
-            
+            <Card imgProfile = "Img1" name = "seekerofthecosmos" imgPost= "VR"/>
+            <Card imgProfile = "Img2" name = "pepeviyuela" imgPost= "Ball"/>
+            <Card imgProfile = "Img3" name = "get.me.now" imgPost= "Blue"/>
+            <Card imgProfile = "Img4" name = "donnushka.p" imgPost= "Kiss"/>
+            <Card imgProfile = "Img5" name = "salem.aka.cat" imgPost= "Laptop"/>
+            <Card imgProfile = "Img6" name = "muyayo.appareal" imgPost= "Robot1"/>
+            <Card imgProfile = "Img7" name = "hotsince82" imgPost= "Robot2"/>
+            <Card imgProfile = "Img8" name = "tekno.addict" imgPost= "Sad"/>
         </div>
     );
 }
