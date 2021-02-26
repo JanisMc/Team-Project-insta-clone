@@ -4,4 +4,31 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
+    background-color: ghostwhite;
+}
+
+/* .header{
+
+} */
+
+.main {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.leftSide {
+    margin-right: -130px;
+    flex: 56%;
+    justify-content: center;
+}
+
+.rightSide {
+    margin-left: -130px;
+    margin-top: 77px;
+    flex: 44%;
+}
+
+.footer {
+    margin-bottom: 15px;
 }

@@ -7,4 +7,4 @@
 - John Fenlon
 - Silvester Goncearenco
 
-[Team-Project-insta-clone] ()
+[Team-Project-insta-clone] ( https://janismc.github.io/Team-Project-insta-clone/.)
