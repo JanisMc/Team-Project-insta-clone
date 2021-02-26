@@ -1,0 +1,27 @@
+.CommentBar{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+#input {
+    width: 98%;
+    border-style: none;
+
+}
+
+#button {
+    background-color: transparent;
+    background-repeat: none;
+    opacity: 100%;
+    border-style: none;
+    /* cursor: pointer;
+    overflow: hidden;
+    outline: none; */
+    mix-blend-mode: screen;
+    
+}
+
+

@@ -29,6 +29,11 @@ import Robot2 from '../../images/Robot2.jpg'
 import Robot3 from '../../images/Robot3.jpg'
 import Sad from '../../images/Sad.jpg'
 import VR from '../../images/VR.jpg'
+import Like from '../../images/Heart.png'
+import CommentIcon from '../../images/Comment.png'
+import Share from '../../images/Share.png'
+import Save from '../../images/Save.png'
+import Dots from '../../images/Dots.png'
 
 const images = {
     Aiony, 
@@ -60,7 +65,13 @@ const images = {
     Robot2, 
     Robot3, 
     Sad, 
-    VR
+    VR,
+    Like,
+    CommentIcon,
+    Share,
+    Save,
+    Dots
+
 }
 
 const Image = (props) => {

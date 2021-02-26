@@ -1,3 +1,15 @@
+.feedImage {
+    height: auto;
+	vertical-align: top;
+	border-style: solid;
+    border-width: 0.5px;
+    width: 100%; 
+    border-color: grey;
+}
+
+.UserLogo {
+    width: 60%;
+
 .profilePics{
     height: 2.5rem;
     width: 2.5rem;
