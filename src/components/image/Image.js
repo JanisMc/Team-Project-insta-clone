@@ -9,7 +9,7 @@ import Joseph from '../../images/joseph.jpg'
 import Kimson from '../../images/kimson.jpg'
 import Michaela from '../../images/michaela.jpg'
 import Princess from '../../images/princess.jpg'
-import Racheal from '../../images/rachel.jpg'
+import Rachel from '../../images/rachel.jpg'
 import Steve from '../../images/steve.jpg'
 import Img1 from '../../images/Img1.png'
 import Img2 from '../../images/Img2.png'
@@ -46,7 +46,7 @@ const images = {
     Kimson, 
     Michaela, 
     Princess, 
-    Racheal, 
+    Rachel, 
     Steve,
     Img1, 
     Img2, 

@@ -1,0 +1,39 @@
+#top-sidebar{
+    display: inline-flex;
+    height: 110px;
+    width: 100%;
+    background-color: ghostwhite;
+    align-items: center;
+    justify-content: center;
+    font-family: helvetica;
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+
+#sidebar-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#account-user-name{
+    padding-right: 40px;
+    padding-left: 24px;
+}
+
+#account-name-sidebar{
+    margin-bottom: -10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#username-sidebar{
+    color:grey;
+}
+
+#switch{
+    color: blue;
+    font-weight: 600;
+    cursor: pointer;
+}

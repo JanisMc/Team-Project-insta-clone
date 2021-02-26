@@ -1,0 +1,10 @@
+.footerContainer {
+    display: flex;
+    width: 70%;
+    border: solid 0.15rem lightgray;
+    justify-content: center;
+    overflow-y: hidden;
+    scrollbar-color: rgb(197, 63, 168) rgb(228, 141, 66);
+    scrollbar-width: thin;
+}
+

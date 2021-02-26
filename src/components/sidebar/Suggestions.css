@@ -1,0 +1,20 @@
+#suggestions{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-family: helvetica;
+    font-size: 14px;
+    background: ghostwhite;
+}
+
+#first-line{
+    font-weight: 600;
+    color: grey;
+}
+
+#second-line{
+    padding-left: 148px;
+    font-weight: 600;
+    cursor: pointer;
+}
